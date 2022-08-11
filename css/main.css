@@ -1,0 +1,26 @@
+.crystal {
+  border: #987ffa;
+  border-width: 3px;
+  border-radius: 3em, 6px;
+  padding: .5em 1.5em .7em, .25em, 1rem;
+  margin: .25em, 1.5rem;
+  line-height: 1.5;
+
+}
+.crystal-title {
+  font-size: 2rem;
+  font-family: Karma;
+  color: #6f00e7;
+
+}
+/*
+Typefaces: Karma, Oswald
+Text sizes: 1.4rem, 2rem
+Line-heights: 1.5
+Colours: #6f00e7, #987ffa, #000
+Gaps: 1rem
+Margins: .25em, 1.5rem
+Paddings: .5em 1.5em .7em, .25em, 1rem
+Border thicknesses: 3px
+Corner-radii: 3em, 6px
+*/
